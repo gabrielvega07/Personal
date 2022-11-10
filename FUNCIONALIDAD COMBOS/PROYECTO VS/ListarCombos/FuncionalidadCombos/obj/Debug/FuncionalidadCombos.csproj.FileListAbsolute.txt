@@ -1,0 +1,21 @@
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe.config
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.exe
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\bin\Debug\FuncionalidadCombos.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.AssemblyReference.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Form1.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.Properties.Resources.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.GenerateResource.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.exe
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\FUNCIONALIDAD COMBOS\PROYECTO VS\ListarCombos\FuncionalidadCombos\obj\Debug\FuncionalidadCombos.pdb
